@@ -1,0 +1,1 @@
+# Painéis onde o Curió habita.
