@@ -1,0 +1,10 @@
+flask
+flask_restful
+flask-jsonpify
+gunicorn
+pathlib
+psycopg2
+redis
+sqlalchemy
+sys
+yaml
